@@ -1,0 +1,25 @@
+[
+  {
+    "id": "DOC_88b46d63",
+    "name": "Industrial Water Pump X1",
+    "category": "Pumps",
+    "manufacturer": "AquaTech",
+    "specs": {
+      "Power": 5.5,
+      "Voltage": 400,
+      "Material": "Stainless Steel"
+    },
+    "source": "datasheet_llm"
+  },
+  {
+    "id": "DOC_e7793258",
+    "name": "Hydraulic Compressor Z3",
+    "category": "Compressors",
+    "manufacturer": "HydroWorks",
+    "specs": {
+      "Pressure": 250,
+      "Weight": 120
+    },
+    "source": "datasheet_llm"
+  }
+]

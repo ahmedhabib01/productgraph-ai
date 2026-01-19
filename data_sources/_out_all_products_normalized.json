@@ -1,0 +1,83 @@
+[
+  {
+    "id": "P1001",
+    "name": "Industrial Water Pump X1",
+    "category": "Pumps",
+    "manufacturer": "AquaTech",
+    "specs": {
+      "power_kw": 5.5,
+      "voltage": "400V",
+      "material": "Stainless Steel"
+    },
+    "source": "erp_api"
+  },
+  {
+    "id": "P1002",
+    "name": "Hydraulic Compressor Z3",
+    "category": "Compressors",
+    "manufacturer": "HydroWorks",
+    "specs": {
+      "pressure_bar": 250,
+      "weight_kg": 120,
+      "cooling": "Air"
+    },
+    "source": "erp_api"
+  },
+  {
+    "id": "P2001",
+    "name": "Centrifugal Pump A9",
+    "category": "Pumps",
+    "manufacturer": "FlowMax",
+    "specs": {
+      "power_kw": 3.2,
+      "material": "Cast Iron"
+    },
+    "source": "xml"
+  },
+  {
+    "id": "P2002",
+    "name": "Air Compressor Q5",
+    "category": "Compressors",
+    "manufacturer": "AirTech",
+    "specs": {
+      "pressure_bar": 180.0,
+      "cooling": "Oil"
+    },
+    "source": "xml"
+  },
+  {
+    "id": "P3001",
+    "name": "Industrial Water Pump X1",
+    "category": "Pumps",
+    "manufacturer": "AquaTech",
+    "specs": {
+      "power_kw": 5.5,
+      "material": "Stainless Steel",
+      "voltage": "400V"
+    },
+    "source": "xml"
+  },
+  {
+    "id": "DOC_88b46d63",
+    "name": "Industrial Water Pump X1",
+    "category": "Pumps",
+    "manufacturer": "AquaTech",
+    "specs": {
+      "power_kw": 5.5,
+      "voltage": "400V",
+      "material": "Stainless Steel"
+    },
+    "source": "datasheet_llm"
+  },
+  {
+    "id": "DOC_e7793258",
+    "name": "Hydraulic Compressor Z3",
+    "category": "Compressors",
+    "manufacturer": "HydroWorks",
+    "specs": {
+      "pressure_bar": 250,
+      "weight_kg": 120
+    },
+    "source": "datasheet_llm"
+  }
+]

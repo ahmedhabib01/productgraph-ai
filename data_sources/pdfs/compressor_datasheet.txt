@@ -1,0 +1,6 @@
+Product: Hydraulic Compressor Z3
+Manufacturer: HydroWorks
+Pressure: 250 bar
+Weight: 120 kg
+Cooling: Air
+Usage: Heavy-duty hydraulic systems

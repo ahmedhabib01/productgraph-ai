@@ -1,0 +1,28 @@
+<products>
+    <product>
+        <id>P2001</id>
+        <name>Centrifugal Pump A9</name>
+        <category>Pumps</category>
+        <manufacturer>FlowMax</manufacturer>
+        <power_kw>3.2</power_kw>
+        <material>Cast Iron</material>
+    </product>
+
+    <product>
+        <id>P2002</id>
+        <name>Air Compressor Q5</name>
+        <category>Compressors</category>
+        <manufacturer>AirTech</manufacturer>
+        <pressure_bar>180</pressure_bar>
+        <cooling>Oil</cooling>
+    </product>
+        <product>
+        <id>P3001</id>
+        <name>Industrial Water Pump X1</name>
+        <category>Pumps</category>
+        <manufacturer>AquaTech</manufacturer>
+        <power_kw>5.5</power_kw>
+        <voltage>400V</voltage>
+        <material>Stainless Steel</material>
+    </product>
+</products>

@@ -1,0 +1,14 @@
+[
+  {
+    "raw_document_id": "pump_datasheet",
+    "raw_text": "Product: Industrial Water Pump X1\nManufacturer: AquaTech\nPower: 5.5 kW\nVoltage: 400V\nMaterial: Stainless Steel\nUsage: Water circulation in industrial plants",
+    "source": "datasheet_txt",
+    "filename": "pump_datasheet.txt"
+  },
+  {
+    "raw_document_id": "compressor_datasheet",
+    "raw_text": "Product: Hydraulic Compressor Z3\nManufacturer: HydroWorks\nPressure: 250 bar\nWeight: 120 kg\nCooling: Air\nUsage: Heavy-duty hydraulic systems",
+    "source": "datasheet_txt",
+    "filename": "compressor_datasheet.txt"
+  }
+]

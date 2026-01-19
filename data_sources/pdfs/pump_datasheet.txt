@@ -1,0 +1,6 @@
+Product: Industrial Water Pump X1
+Manufacturer: AquaTech
+Power: 5.5 kW
+Voltage: 400V
+Material: Stainless Steel
+Usage: Water circulation in industrial plants
